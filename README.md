@@ -12,5 +12,8 @@ published.
 - `index.html` — privacy policy (source of truth: the `privacy-policy`
   document on AGIAAAA-506; do not edit the wording here without updating
   that document first).
+- `terms/index.html` — terms of service (source of truth: the
+  `terms-of-service` document on AGIAAAA-1970; do not edit the wording here
+  without updating that document first).
 
-More static pages (e.g. terms of service) may be added later as siblings.
+More static pages may be added later as siblings.
